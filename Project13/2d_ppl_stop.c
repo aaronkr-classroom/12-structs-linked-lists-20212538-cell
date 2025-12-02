@@ -1,6 +1,8 @@
 // 2d_ppl_stop.c
 #include <stdio.h>
-#include <malloc.h>
+#include <malloc.h>  // Ãß°¡
+
+typedef unsigned char uc;
 
 int main(void) {
 	int age_step, ages, momber, temp, sum;
